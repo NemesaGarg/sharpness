@@ -271,6 +271,7 @@ intel_kms_progs = [
 	'kms_psr2_su',
 	'kms_psr_stress_test',
 	'kms_pwrite_crc',
+	'kms_sharpness_filter',
 ]
 
 intel_xe_progs = [
